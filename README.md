@@ -8,4 +8,4 @@ Q3: What time should we display adverstisement to maximize likelihood of custome
 Q4: What products are most often sold together?
 Q5: What product sold the most? Why do you think it sold the most?
 
-Visualizations and insights are provided for every Task.
+Visualizations and insights are provided for every task.
